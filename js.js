@@ -1,1 +1,1 @@
-console.log("Testando...")
+const btnClear = x
